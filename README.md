@@ -63,9 +63,6 @@
 ---
 
 
-### ✉️ Contacto
-📬 **syepesmolina@gmail.com**
-
 💬 ¡Siempre abierto a colaborar en nuevos proyectos, compartir ideas y seguir aprendiendo!
 
 ---
