@@ -9,10 +9,10 @@
 
 ### 🌐 Conéctate conmigo:
 <p align="center">
-  <a href="https://samuel-yepes.github.io/portafolio/" target="_blank">
+  <a href="https://samuel-yepes.github.io/Portafolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/samuel-yepes-b4a28b266" target="_blank">
+  <a href="www.linkedin.com/in/samuel-yepes-b4a28b266" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/samue_lyepes" target="_blank">
